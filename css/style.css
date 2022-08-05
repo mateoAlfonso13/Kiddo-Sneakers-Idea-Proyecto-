@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+#menu a{
+    color: black;
+    font-size: 18px;
+    font-weight: bold
+
+}
+#menu button{
+    font-size: 18px;
+    font-weight: bold
+}
+.carousel-inner{
+    max-height: 39rem;
+}
+@media (max-width: 768px){
+    #introduccion{
+        width: 90%; 
+    }
+    #servicios{
+        width: 90% 
+    }
+}
+
+
+
