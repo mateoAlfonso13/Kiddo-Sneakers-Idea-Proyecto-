@@ -25,10 +25,19 @@ body{
     #introduccion{
         width: 90%; 
     }
-    #servicios{
-        width: 90% 
+    .serviciosImg{
+        width: 40vw;
+        height: 40vw;
+    
     }
 }
+.modoDiablo{
+    width: 30vw;
+    height: 30vw;
+}
+
+
+
 
 
 
